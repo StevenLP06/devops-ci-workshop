@@ -26,5 +26,3 @@
 -**Archivo:** requirements.txt
 -**Problema:** El pipeline intenta ejecutar test en Pytest sin haberlo instalado anteriormente, lo cual produce un error.
 -**Solución:** Agregar en requirements.txt pytest==9.0.1 (en este caso en específico).
-
-ola
